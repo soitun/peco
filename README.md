@@ -768,6 +768,7 @@ Much code stolen from https://github.com/mattn/gof
     - [Void Linux (XBPS)](#void-linux-xbps)
     - [Arch Linux](#arch-linux)
     - [Windows (Chocolatey NuGet Users)](#windows-chocolatey-nuget-users)
+    - [Linux / macOS / Windows (Conda, Mamba, Pixi)](#linux--macos--windows-conda-mamba-pixi)
     - [Building peco yourself](#building-peco-yourself)
     - [go get IS NOT RECOMMENDED](#go-get-is-not-recommended)
 - [Command Line Options](#command-line-options)
